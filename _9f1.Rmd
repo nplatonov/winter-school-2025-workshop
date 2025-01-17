@@ -1,9 +1,0 @@
-```{r iucn, code=readLines("resources/attrtable_.R")}
-```
-
-:::protocol
-```{r protocol, results='asis', out.height=682}
-# ursa:::widgetize(ret,ref="widget",height="var(--scrollY)")
-# ret
-```
-:::
