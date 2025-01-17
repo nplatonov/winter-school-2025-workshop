@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2023-07-07T19:48:29.358Z</time>
+  <bounds minlat="64.872794878" minlon="39.336913051" maxlat="76.958201230" maxlon="162.497487059"/>
+  <wpt lat="80.607721" lon="58.581165">
+    <ele>74.776161</ele>
+    <time>2023-07-27T13:09:59Z</time>
+    <name>269</name>
+    <sym>Animal Tracks</sym>
+  </wpt>
+  <wpt lat="68.093320057" lon="49.233305762">
+    <ele>14.786</ele>
+    <name>074</name>
+    <cmt>20-NOV-03 21:28:46</cmt>
+    <desc>20-NOV-03 21:28:46</desc>
+    <sym>Golf Course</sym>
+  </wpt>
+  <wpt lat="55.712468466" lon="37.589259753">
+    <ele>149.610</ele>
+    <name>048</name>
+    <cmt>048</cmt>
+    <desc>048</desc>
+    <sym>Museum</sym>
+  </wpt>
+  <trk>
+    <name>ACTIVE LOG 001</name>
+    <trkseg>
+      <trkpt lat="67.242339542" lon="42.252169400">
+        <ele>17.922</ele>
+        <time>2003-11-19T10:30:26Z</time>
+      </trkpt>
+      <trkpt lat="67.242339542" lon="42.252169400">
+        <ele>19.364</ele>
+        <time>2003-11-19T10:30:27Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>ACTIVE LOG 002</name>
+    <trkseg>
+      <trkpt lat="67.515644403" lon="42.656655153">
+        <ele>25.132</ele>
+        <time>2003-11-19T11:49:44Z</time>
+      </trkpt>
+      <trkpt lat="67.516311938" lon="42.657577582">
+        <ele>25.132</ele>
+        <time>2003-11-19T11:50:00Z</time>
+      </trkpt>
+      <trkpt lat="67.517105620" lon="42.658706121">
+        <ele>24.170</ele>
+        <time>2003-11-19T11:50:19Z</time>
+      </trkpt>
+      <trkpt lat="67.517714985" lon="42.659608936">
+        <ele>24.651</ele>
+        <time>2003-11-19T11:50:34Z</time>
+      </trkpt>
+      <trkpt lat="67.518301550" lon="42.660562294">
+        <ele>24.651</ele>
+        <time>2003-11-19T11:50:49Z</time>
+      </trkpt>
+      <trkpt lat="67.518808153" lon="42.661250113">
+        <ele>24.651</ele>
+        <time>2003-11-19T11:51:01Z</time>
+      </trkpt>
+      <trkpt lat="67.519428832" lon="42.661977410">
+        <ele>25.132</ele>
+        <time>2003-11-19T11:51:15Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
