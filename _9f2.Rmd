@@ -1,0 +1,12 @@
+```{r}
+input <- "./input"
+output <- "./output"
+```
+
+### Переименование в R
+
+```{r code=readLines("resources/exif_dev.R"), eval=!FALSE, echo=TRUE}
+```
+
+```{r child="resources/exif_dev.Rmd", eval=FALSE}
+```

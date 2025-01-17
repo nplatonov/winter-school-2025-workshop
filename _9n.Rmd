@@ -1,0 +1,6 @@
+## Lorem ipsum
+
+```{r, echo=FALSE, out.extra="contain", out.height=425, zfig.cap="[Adopted from...](https://towardsdatascience.com/a-b-testing-a-complete-guide-to-statistical-testing-e3f1db140499)"}
+#| fig.cap: After <a href=https://towardsdatascience.com/a-b-testing-a-complete-guide-to-statistical-testing-e3f1db140499>Francesco Casalegno</a>
+knitr::include_graphics("assets/which-test.webp")
+```

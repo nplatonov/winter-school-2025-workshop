@@ -1,0 +1,30 @@
+## Goodies {.blackout #hidden-goodies}
+
++ Настолки
+
++ Вкусняшки
+
++ Сигареты
+
++ 🍾
+
+
+
+######
+
+&nbsp;
+
+---
+class: notable scrollable
+
+:::font75
+
+```{r}
+options(width=130)
+```
+
+```{r, echo=TRUE}
+print(sessionInfo())
+```
+
+:::

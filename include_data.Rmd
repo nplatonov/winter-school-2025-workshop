@@ -1,0 +1,48 @@
+### Natural Earth
+
+[Natural Earth World GIS Data](https://www.naturalearthdata.com/)
+
+```{r}
+knitr::include_url("https://www.naturalearthdata.com/downloads/",height=540)
+```
+
++ Есть поддержка русскоязычных названий (см. поля "name_ru", "NAME_RU")
+
+### OSM береговая линия {#osmdata}
+
++ [Data Derived from OpenStreetMap for Download](https://osmdata.openstreetmap.de/)
+
+   + [Land Polygons](https://osmdata.openstreetmap.de/data/land-polygons.html)
+   
+      + [Download large simplified polygons](https://osmdata.openstreetmap.de/download/simplified-land-polygons-complete-3857.zip).
+
+```{r}
+knitr::include_url("https://osmdata.openstreetmap.de/",height=465)
+```
+
+См. [пример использования](#dist2coast).
+
+### GEBCO батиметрия {#download-gebco}
+
+
++ https://www.gebco.net/
+
+   + [Gridded Bathymetry Data](https://www.gebco.net/data_and_products/gridded_bathymetry_data/)
+   
+      + [Download data for user-defined areas](https://www.gebco.net/data_and_products/gridded_bathymetry_data/#area)
+      
+         + [Application](https://download.gebco.net/)
+
+```{r}
+knitr::include_url("https://download.gebco.net/",height=441)
+```
+
+См. [пример обработки](#analysis-gebco).
+
+### ДДЗ морской лёд
+
+https://seaice.uni-bremen.de/start/
+
+```{r}
+knitr::include_url("https://seaice.uni-bremen.de/start/",height=630)
+```

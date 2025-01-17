@@ -1,0 +1,69 @@
+---
+output: xaringan::moon_reader
+pagetitle: "`r plutil::format_time(format='ЗШПУ (%H:%M)')`"
+echo: false
+title1: ГИС обработка данных наблюдений
+title: Применение геоинформационных систем для обработки учётных данных
+meeting2: Трек «Морское биоразнообразие»<br>Зимней школы Плавучего университета 2025
+meeting: Зимняя школа Плавучего университета 2025
+subtitle2: Применение ГИС для обработки треков, льдов, авиаучетов и пр. данных
+subtitle: Трек «Морское биоразнообразие»
+author:
+ - name: Никита Платонов
+   affiliation: с.н.с. ИПЭЭ РАН
+ - name: "*и др.*"
+ratio2: 29:18
+date: 2025-02-05
+location: ИПЭЭ РАН, Москва
+toc: true
+toc_depth: 5
+shorttitle: "[ГИС обработка](#home)"
+css: assets/cameral.css
+---
+
+```{r}
+input <- "./input"
+output <- "./output"
+assets <- "assets"
+resources <- "./resources"
+staff <- digest::digest(getOption("sevinExpedition"),"crc32")=="bd8035bd"
+isShow <- ursa:::.isRemark()
+simple <- T
+if (!dir.exists(output))
+   dir.create(output)
+plutil::pluglibrary("hadley/emo")
+```
+
+
+# Сбор данных
+
+## Наблюдения
+
+
+```{r, out.height=670, out.extra="contain"}
+knitr::include_graphics(file.path(assets,"bridge.jpg"),dpi=200)
+```
+
+## Регистрация находок {#protocol}
+
+:::blackout
+
+```{r, out.height=670, out.extra="contain"}
+knitr::include_graphics(file.path(assets,"records.jpg"),dpi=120)
+```
+
+:::
+
+---
+
+:::{.double .blackout}
+
+```{r, height=600}
+knitr::include_graphics(file.path(assets,"records1.jpg"))
+```
+
+```{r, height=600}
+knitr::include_graphics(file.path(assets,"records2.jpg"))
+```
+:::
+

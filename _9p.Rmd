@@ -1,0 +1,33 @@
+---
+output: xaringan::moon_reader
+toc: true
+---
+
+# Сбор данных
+
+## Наблюдения
+
+
+```{r, out.height=670, out.extra="contain"}
+knitr::include_graphics(file.path("assets","bridge.jpg"),dpi=200)
+```
+
+
+## Регистрация находок {#protocol}
+
+```{r, out.height=670, out.extra="contain"}
+knitr::include_graphics(file.path("assets","records.jpg"),dpi=120)
+```
+
+---
+
+:::{.double.blackout}
+
+```{r, height=600}
+knitr::include_graphics(file.path("assets","records1.jpg"))
+```
+
+```{r, height=600}
+knitr::include_graphics(file.path("assets","records2.jpg"))
+```
+:::

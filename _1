@@ -1,0 +1,63 @@
+
+C:\platt\education\202502-WinterSchool>C:\Portable\Git\bin\git.exe status 
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .gitignore
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.gitignore~
+	Rplots.pdf
+	_1
+	_9f1.Rmd
+	_9f2.Rmd
+	_9f2.knitted
+	_9n.Rmd
+	_9n.knitted
+	_9o.R
+	_9o.knitted
+	_9p.Rmd
+	_9q.Rmd
+	_9q.html
+	_9q.knitted
+	_9r.R
+	_9s.Rmd
+	_9s.html
+	_9t.R
+	_finalize.R
+	_link
+	_scite.bat
+	assets/
+	assets_deprecated/
+	background.xlsx
+	background_old.xlsx
+	cameral-dev.Rmd
+	cameral-dev.knitted
+	cameral-dev~bib.rds
+	cameral.Rmd
+	cameral.link
+	cameral~bib.rds
+	code.R
+	code_used.R
+	details-lev2.Rmd
+	details.R
+	details.Rmd
+	details_deprecated.R
+	devel/
+	documents/
+	figure/
+	include_data.Rmd
+	include_software.Rmd
+	license.knitted
+	license.md
+	output/
+	reproduce/
+	resources/
+	show.html
+	view.html
+
+no changes added to commit (use "git add" and/or "git commit -a")

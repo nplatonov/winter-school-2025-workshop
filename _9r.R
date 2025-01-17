@@ -1,0 +1,1 @@
+digest::digest(getOption("sevinExpedition"),"crc32")=="bd8035bd"
